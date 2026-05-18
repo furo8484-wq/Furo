@@ -1272,6 +1272,9 @@
         - MagazinePulse470
         - MagazinePulse350Fmj
         - MagazinePulse350
+        - MagazinePistolCaselessRifle
+        - MagazineCaselessRifleShort
+        - MagazineCaselessRifle
         - DrumMagazineShotgunSlug
         - DrumMagazineShotgunEmpty
         - DrumMagazineShotgunBuck
